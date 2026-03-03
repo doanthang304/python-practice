@@ -13,7 +13,7 @@
         # -> Print "Invalid input. Please enter a valid number."
     #Else (guess = the number) 
         # -> Print "Congratulations! You've guessed the correct number!"
-# exit the loop
+# exit the loo
 import random
 
 def guessing_number():
